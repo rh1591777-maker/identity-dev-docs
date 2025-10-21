@@ -34,7 +34,8 @@ sidenav:
     <li class="usa-process-list__item">
       <h3>Create a new application that's ready for production and make a request for your application to go live</h3>
       <p>
-        Create a <a class="usa-link" href="{% link _pages/production.md %}#production-configuration-process">new application and make a request</a> to go live in production. We'll check your application to ensure it meets all administrative and technical requirements. Applications can only go live if you've completed an <a class="usa-link" href="{% link _pages/production.md %}#confirm-interagency-agreement-iaa">Inter-Agency Agreement</a>.
+        Create a <a class="usa-link" href="{% link _pages/production.md %}#production-
+                   -process">new application and make a request</a> to go live in production. We'll check your application to ensure it meets all administrative and technical requirements. Applications can only go live if you've completed an <a class="usa-link" href="{% link _pages/production.md %}#confirm-interagency-agreement-iaa">Inter-Agency Agreement</a>.
       </p>
     </li>
   </ol>
